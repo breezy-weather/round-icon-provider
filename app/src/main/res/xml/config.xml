@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <config
     hasWeatherIcons="true"
-    hasWeatherAnimators="true"
+    hasWeatherAnimators="false"
     hasMinimalIcons="false"
     hasShortcutIcons="true"
     hasSunMoonDrawables="true" />

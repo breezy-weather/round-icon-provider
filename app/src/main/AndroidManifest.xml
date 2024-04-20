@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <application
-        android:icon="@drawable/weather_partly_cloudy_day_pixel"
+        android:icon="@drawable/weather_partly_cloudy_day_round"
         android:label="@string/app_name"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
 
@@ -12,9 +12,6 @@
         <meta-data
             android:name="org.breezyweather.DRAWABLE_FILTER"
             android:resource="@xml/drawable_filter" />
-        <meta-data
-            android:name="org.breezyweather.ANIMATOR_FILTER"
-            android:resource="@xml/animator_filter" />
         <meta-data
             android:name="org.breezyweather.SHORTCUT_FILTER"
             android:resource="@xml/shortcut_filter" />

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "org.breezyweather.pixeliconprovider"
+    namespace = "org.breezyweather.roundiconprovider"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "org.breezyweather.pixeliconprovider"
+        applicationId = "org.breezyweather.roundiconprovider"
         minSdk = 11
         targetSdk = 34
         versionCode = 4
